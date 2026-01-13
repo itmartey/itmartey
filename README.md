@@ -1,4 +1,4 @@
-# Hi, I'm Isaac Tetteh Martey👋 
+ITmartey
 
 I am an **Telecommunications Engineer** transitioning into **Advanced Data Science**. My approach is rooted in the high precision, robust architecture, and a deep understanding of the mathematical foundations behind the algorithms.
 
