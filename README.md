@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Isaac Tetteh Martey👋 
 
-<!--
-**itmartey/itmartey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Telecommunications Engineer** transitioning into **Advanced Data Science**. My approach is rooted in the high precision, robust architecture, and a deep understanding of the mathematical foundations behind the algorithms.
 
-Here are some ideas to get you started:
+###  What I'm Working On
+- **Mathematical Foundations:** Deep-diving into Linear Algebra (Strang) and Multivariate Calculus for ML (Deisenroth).
+- **Automation & Governance:** Developing modular suites for statutory compliance and financial tracking using SQL and Advanced Logic(Microsoft Excel).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+- **Languages:** R, Python (NumPy, Pandas), SQL.
+- **Tools:** Excel (Advanced), Power BI.
+- **Specialties:** Data Normalization, ETL Pipelines, Relational Database Design.
+
+---
+*"If you torture the data long enough, it will confess to anything"* — Ronald Coase
