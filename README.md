@@ -1,6 +1,6 @@
 ITmartey
 
-I am an **Telecommunications Engineer** transitioning into **Advanced Data Science**. My approach is rooted in the high precision, robust architecture, and a deep understanding of the mathematical foundations behind the algorithms.
+I am a **Telecommunications Engineer** transitioning into **Advanced Data Science**. My approach is rooted in the high precision, robust architecture, and a deep understanding of the mathematical foundations behind the algorithms.
 
 ###  What I'm Working On
 - **Mathematical Foundations:** Deep-diving into Linear Algebra (Strang) and Multivariate Calculus for ML (Deisenroth).
