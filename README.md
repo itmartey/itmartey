@@ -6,7 +6,7 @@ I am a **Telecommunications Engineer** transitioning into **Advanced Data Scienc
 - **Mathematical Foundations:** Deep-diving into Linear Algebra (Strang) and Multivariate Calculus for ML (Deisenroth).
 - **Automation & Governance:** Developing modular suites for statutory compliance and financial tracking using SQL and Advanced Logic(Microsoft Excel).
 
-### 🛠️ Technical Stack
+### Technical Stack
 - **Languages:** R, Python (NumPy, Pandas), SQL.
 - **Tools:** Excel (Advanced), Power BI.
 - **Specialties:** Data Normalization, ETL Pipelines, Relational Database Design.
